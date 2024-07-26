@@ -1,2 +1,3 @@
-# -Western-Countries-Financial-Data
+# Western-Countries-Financial-Data
 Capstone Project - Business Analyst Career Program BY Skill Academy
+As a culminating work for the Skill Academy program, this project showcases an intricate financial analysis dashboard designed for several products in diverse markets and nations. Key performance metrics for the years 2013 and 2014 are displayed on the dashboard, including total sales, total discounts, total profit, average sale price, and total units sold. Additionally, it offers insights into sales by product, profit by segment, sales by country, and quarterly trends. Along with strategic advice for improving poor goods and overall business performance, the report highlights profitable sectors, growth markets, and top-performing items. With the use of Excel and Power BI, this project showcases advanced data visualization and analytical abilities.
